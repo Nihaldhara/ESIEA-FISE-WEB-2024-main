@@ -18,6 +18,8 @@
 - **Navigation :**
   - Interface utilisateur intuitive avec un menu de navigation facilement accessible.
   - Dashboard pour un accès rapide aux différentes fonctionnalités.
+- **Architecture :**
+  - Architecture suivant le modèle MVC
 
 ---
 
@@ -38,16 +40,7 @@ La charte graphique du portfolio est définie comme suit :
 
 - **Police :** Roboto. https://fonts.google.com/specimen/Roboto
 
-**5. Wireframe:**
-Le maquettage du portfolio est définie comme suit :
-![image](https://github.com/Nihaldhara/Portfolio/assets/93861339/7f667710-6a25-41f9-9361-8cdb73d843c1)
-![image](https://github.com/Nihaldhara/Portfolio/assets/93861339/86d608dc-b398-44da-9ffb-e5dcd81f7cb9)
-![image](https://github.com/Nihaldhara/Portfolio/assets/93861339/94edeb71-a233-4fa4-be04-ebd06e2b3ba2)
-![image](https://github.com/Nihaldhara/Portfolio/assets/93861339/5fdd1131-fee7-4ab5-b98d-c75e01a1393c)
-
----
-
-**6. UML:**
+**5. UML:**
 Diagrammes décrivant le projet :
 - Diagramme de séquence :
 
@@ -64,6 +57,10 @@ Diagrammes décrivant le projet :
 - ERD :
 
 ![image](https://github.com/Nihaldhara/Portfolio/assets/93861339/52ee5bbc-97f5-42da-b3d0-3cccf75400f8)
+-Diagramme de classes : 
+
+![image](https://github.com/Nihaldhara/ESIEA-FISE-WEB-2024-main/assets/93861339/4f386b03-b01a-451d-b2ce-069cebd011a4)
+
 
 
 
