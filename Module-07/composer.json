@@ -1,0 +1,17 @@
+{
+    "name": "orlin/module_07_tp2",
+    "autoload": {
+        "psr-4": {
+            "C:\\WampServer\\www\\Module-06\\TP-02\\Module_07_TP2": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Orlina Joly",
+            "email": "ojoly@et.esiea.fr"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "11"
+    }
+}
